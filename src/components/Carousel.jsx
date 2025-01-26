@@ -11,7 +11,6 @@ import "swiper/css/navigation";
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 import Slide from "./Slide";
 
-
 import bg1 from '../images/carousel1.jpg'
 import bg2 from '../images/carousel2.jpg'
 import bg3 from '../images/carousel3.jpg'
